@@ -1,8 +1,9 @@
-baseURL = "https://preparingtoteach.org"
+baseURL = "https://preparingtoteach.org/"
 languageCode = "en-us"
 title = "Preparing to Teach"
 theme = "minimal"
 googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     author = "Mine Cetinkaya-Rundel"
