@@ -4,7 +4,7 @@ draft: false
 title: Tentative Agenda
 ---
 
-The following is a tentative agenda, and may be updated before the workshop.
+The following is a tentative agenda. It will be updated before the workshop.
 
 | Time         | Event |
 |--------------|-----------------------------------------------------|
