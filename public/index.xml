@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preparing to Teach</title>
+    <link>/</link>
+    <description>Recent content on Preparing to Teach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The 2nd Preparing for Careers in Teaching Statistics and Data Science Workshop will be held in Fort Collins, Colorado, on July 27, immediately prior to JSM 2019 in Denver, Colorado. The workshop is designed for graduate students and recent PhDs interested in careers in teaching statistics and data science. Priority will be given to graduate students who finished or will be finishing their program between Spring 2019 and Fall 2021.</description>
+    </item>
+    
+    <item>
+      <title>Apply</title>
+      <link>/apply/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/apply/</guid>
+      <description>INSERT GOOGLE FORM</description>
+    </item>
+    
+    <item>
+      <title>Presenters</title>
+      <link>/presenters/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/presenters/</guid>
+      <description>Mine Çetinkaya-Rundel is Senior Lecturer at University of Edinburgh and Professional Educator at RStudio. Mine’s work focuses on innovation in statistics pedagogy, with an emphasis on computation, reproducible research, student-centered learning, and open-source education. Mine organzings ASA DataFest and works on the the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored three open-source introductory statistics textbooks.</description>
+    </item>
+    
+    <item>
+      <title>Tentative Agenda</title>
+      <link>/agenda/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/agenda/</guid>
+      <description>The following is a tentative agenda, and may be updated before the workshop.
+   Time Event     8-9 Welcome and introductions   9-10:15 Session 1: Teaching focused career opportunities   10:15 10:30 - Break   10:30 11:30 - Session 2: Education research and opportunities for grants   11:30 1 - Lunch / Roundtable   1 - 2 Session 3: Teaching intro stats and assessing learning   2 - 3 Session 4: Teaching intro data science and assessing learning   3 - 3:15 Break   3:15 - 3:45 Session 5: Mentoring undergraduate researchers   3:45 - 4 Wrap up and moving forward    </description>
+    </item>
+    
+  </channel>
+</rss>
