@@ -1,4 +1,4 @@
-baseURL = "https://preparingtoteach.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Preparing to Teach"
 theme = "minimal"
