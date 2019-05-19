@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Mine Cetinkaya-Rundel"
-    description = "Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science"
+    description = "July 27, 2019 - Fort Collins, CO <br><br> Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science"
     accent = "#007CB7"
     showBorder = true
     backgroundColor = "white"
