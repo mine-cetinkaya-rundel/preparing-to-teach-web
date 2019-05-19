@@ -16,6 +16,4 @@ If you have any questions, you can contact Mine Cetinkaya-Rundel (cetinkaya.mine
 
 See [here](https://sites.google.com/view/preparetoteach) for information on last year's workshop. Materials from 2018 Preparing to Teach can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach).
 
-This workshop is organized by the Section on Statistics and Data Science Education of the American Statistical Association and is made possible with support from the National Science Foundation and Institute for Mathematical Statistics.
-
-<img src="../img/asa-ims-nsf.png">
+This workshop is organized by the Section on Statistics and Data Science Education of the American Statistical Association and is made possible with support from the National Science Foundation.
