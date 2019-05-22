@@ -10,10 +10,21 @@ This is a one-day workshop to prepare current graduate students for a future rol
 
 The workshop presenters include Allan Rossman (Cal Poly), Mine Cetinkaya-Rundel (University of Edinburgh & RStudio), Nicholas Horton (Amherst), and Ulrike Genschel (Iowa State).
 
-All participants will receive funding for one night of lodging. A limited number of travel scholarships are available and will be awarded based on demonstrated need. Applications should be submitted by June 21, but we will review applications as they come in and will try to let you know in a few days of your submission. Please click [here](/apply) to apply.
+All participants will receive funding for one night of lodging. A limited number of travel scholarships are available and will be awarded based on demonstrated need. Applications should be submitted by June 21, but we will review applications as they come in and will try to let you know in a few days of your submission. 
 
-If you have any questions, you can contact Mine Cetinkaya-Rundel (cetinkaya.mine@gmail.com).
+If you have any questions, you can contact Mine Cetinkaya-Rundel at [cetinkaya.mine@gmail.com](mailto:cetinkaya.mine@gmail.com).
 
 See [here](https://sites.google.com/view/preparetoteach) for information on last year's workshop. Materials from 2018 Preparing to Teach can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach).
 
 This workshop is organized by the Section on Statistics and Data Science Education of the American Statistical Association and is made possible with support from the National Science Foundation.
+
+<br>
+<center>
+#### [Cick here to apply](/apply)
+</center>
+<br>
+
+### Organizing committee
+
+- Mine Çetinkaya-Rundel (University of Edinburgh)
+- Alexander Volfovsky (Duke University)
