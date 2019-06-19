@@ -8,8 +8,8 @@ The following is a tentative agenda. It will be updated before the workshop.
 
 | Time         | Event |
 |--------------|-----------------------------------------------------|
-| 8-9          | Welcome and introductions |
-| 9-10:15      | Session 1: Teaching focused career opportunities |
+| 8:30-9       | Welcome and introductions |
+| 9-10:15      | Session 1: GAISE recommendations, and teaching-focused career opportunities |
 | 10:15        | 10:30 - Break |
 | 10:30        | 11:30 - Session 2: Education research and opportunities for grants |
 | 11:30        | 1 - Lunch / Roundtable |
