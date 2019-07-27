@@ -1,10 +1,10 @@
 ---
 date: "2019-05-19"
 draft: false
-title: Tentative Agenda
+title: Agenda
 ---
 
-The following is a tentative agenda. It will be updated before the workshop.
+Materials for the 2019 workshop can be found at [bit.ly/ptt-repo](http://bit.ly/ptt-repo).
 
 | Time         | Event |
 |--------------|-----------------------------------------------------|
