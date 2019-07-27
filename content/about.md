@@ -14,7 +14,7 @@ All participants will receive funding for one night of lodging. A limited number
 
 If you have any questions, you can contact Mine Cetinkaya-Rundel at [cetinkaya.mine@gmail.com](mailto:cetinkaya.mine@gmail.com).
 
-See [here](https://sites.google.com/view/preparetoteach) for information on last year's workshop. Materials from 2018 Preparing to Teach can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach).
+See [here](https://sites.google.com/view/preparetoteach) for information on last year's workshop. Materials from 2018 Preparing to Teach can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/releases/tag/ptt-2018).
 
 This workshop is organized by the Section on Statistics and Data Science Education of the American Statistical Association and is made possible with support from the National Science Foundation and the IMS New Researchers Group.
 
