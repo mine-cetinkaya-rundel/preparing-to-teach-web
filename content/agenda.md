@@ -1,21 +1,26 @@
 ---
-date: "2019-05-19"
+date: "2020-04-20"
 draft: false
 title: Agenda
 ---
 
-Materials for the 2019 workshop can be found at [bit.ly/ptt-repo](http://bit.ly/ptt-repo).
+Materials for the eCOTS 2020 workshop will be posted here (link TBA).
 
-| Time         | Event |
-|--------------|-----------------------------------------------------|
-| 8:15-9       | Welcome and introductions |
-| 9-10:15      | Session 1: GAISE recommendations, and teaching-focused career opportunities |
-| 10:15        | 10:30 - Break |
-| 10:30        | 11:30 - Session 2: Education research and opportunities for grants |
-| 11:30        | 1 - Lunch / Roundtable |
-| 1 - 2        | Session 3: Teaching intro stats and assessing learning |
-| 2 - 3        | Session 4: Teaching intro data science and assessing learning |
-| 3 - 3:15     | Break |
-| 3:15 - 3:45  | Session 5: Mentoring undergraduate researchers |
-| 3:45 - 4     | Wrap up and moving forward |
+### Friday, 15 May
 
+1:00pm - 1:15pm ET - Welcome and introductions
+1:15pm - 2:00pm ET - GAISE recommendations: Allan Rossman
+2:00pm - 2:45pm ET - Teaching focused career opportunities: Jo Hardin
+2:45pm - 3:00pm ET - Break
+3:00pm - 3:45pm ET - Education research and opportunities for grants: Beth Chance
+3:45pm - 4:15pm ET - Your first year as faculty: Lucy McGowan
+4:15pm - 5:00pm ET - Teaching remotely: TBA
+
+### Wednesday, 20 May
+
+3:30pm - 4:15pm ET - (*) Teaching intro statistics: Ulrike Genschel
+4:15pm - 5:15pm ET - (*) Teaching intro data science: Mine Çetinkaya-Rundel
+5:15pm - 5:30pm ET - Break
+5:30pm - 5:00pm ET - Wrap up
+
+(*) Open to all eCOTS 2020 participants.

@@ -7,7 +7,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     author = "Mine Cetinkaya-Rundel"
-    description = "July 27, 2019 - Fort Collins, CO <br> before JSM 2019 <br><br> Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science."
+    description = "May 15 & 20, 2020 - virtual! <br> before & during eCOTS 2020 <br><br> Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science."
     accent = "#007CB7"
     showBorder = true
     backgroundColor = "white"
@@ -45,6 +45,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/post/"
     name = "Posts"
     weight = 6
+    
+[[menu.main]]
+    url = "/past/"
+    name = "Past workshops"
+    weight = 7
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
