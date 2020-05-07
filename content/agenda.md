@@ -14,13 +14,13 @@ Materials for the eCOTS 2020 workshop will be posted here (link TBA).
 - 2:45pm - 3:00pm ET - Break
 - 3:00pm - 3:45pm ET - Education research and opportunities for grants: Beth Chance
 - 3:45pm - 4:15pm ET - Your first year as faculty: Lucy D’Agostino McGowan
-- 4:15pm - 5:00pm ET - Teaching remotely: TBA
+- 4:15pm - 5:00pm ET - Teaching remotely: Mine Çetinkaya-Rundel
 
 ### Wednesday, 20 May
 
 - 3:30pm - 4:15pm ET - (*) Teaching intro statistics: Ulrike Genschel
 - 4:15pm - 5:15pm ET - (*) Teaching intro data science: Mine Çetinkaya-Rundel
 - 5:15pm - 5:30pm ET - Break
-- 5:30pm - 5:00pm ET - Wrap up
+- 5:30pm - 6:00pm ET - Wrap up
 
 (*) Open to all eCOTS 2020 participants.
