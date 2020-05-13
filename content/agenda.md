@@ -13,8 +13,8 @@ Materials for the eCOTS 2020 workshop will be posted here (link TBA).
 - 2:00pm - 2:45pm ET - Teaching focused career opportunities: Jo Hardin
 - 2:45pm - 3:00pm ET - Break
 - 3:00pm - 3:45pm ET - Education research and opportunities for grants: Beth Chance
-- 3:45pm - 4:15pm ET - Your first year as faculty: Lucy D’Agostino McGowan
-- 4:15pm - 5:00pm ET - Teaching remotely: Mine Çetinkaya-Rundel
+- 3:45pm - 4:30pm ET - Your first year as faculty: Lucy D’Agostino McGowan
+- 4:30pm - 5:00pm ET - Teaching remotely: Mine Çetinkaya-Rundel
 
 ### Wednesday, 20 May
 
