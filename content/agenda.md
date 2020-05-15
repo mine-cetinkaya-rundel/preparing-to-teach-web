@@ -4,7 +4,7 @@ draft: false
 title: Agenda
 ---
 
-Materials for the eCOTS 2020 workshop will be posted here (link TBA).
+Materials for the eCOTS 2020 workshop will be posted [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach).
 
 ### Friday, 15 May
 
