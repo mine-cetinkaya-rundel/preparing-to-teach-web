@@ -4,6 +4,8 @@ draft: false
 title: Agenda
 ---
 
+All times are ET.
+
 ### Friday, 15 May
 
 | Time        | Session           | Slides | Video     |
