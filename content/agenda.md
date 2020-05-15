@@ -12,7 +12,7 @@ Materials for the eCOTS 2020 workshop will be posted here (link TBA).
 - 1:15pm - 1:45pm ET - GAISE recommendations: Allan Rossman
 - 1:45pm - 2:00pm ET - Breakout discussion
 - 2:00pm - 2:30pm ET - Teaching focused career opportunities: Jo Hardin
-- 2:30pm - 2:40pm ET - Breakout discussion
+- 2:30pm - 2:45pm ET - Breakout discussion
 - 2:45pm - 3:00pm ET - Break
 - 3:00pm - 3:30pm ET - Education research and opportunities for grants: Beth Chance
 - 3:30pm - 3:45pm ET - Q&A
