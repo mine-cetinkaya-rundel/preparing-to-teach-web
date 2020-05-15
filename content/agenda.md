@@ -6,8 +6,8 @@ title: Agenda
 
 ### Friday, 15 May
 
-| Time    | Session           | Slides | Video     |
-|---------|-------------------|--------|-----------|
+| Time        | Session           | Slides | Video     |
+|-------------|-------------------|--------|-----------|
 | 1:00-1:15pm | Welcome and introductions   |  |  |
 | 1:15-1:45pm | Implementing GAISE Recommendations for Teaching Introductory Statistics: Allan Rossman | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/01-gaise/01-gaise.pdf) | [[Video]](https://youtu.be/onpEINJQ5sw) |
 | 1:45-2:00pm | Breakout discussion         |  |  |
