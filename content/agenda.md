@@ -12,7 +12,7 @@ title: Agenda
 - 2:00pm - 2:30pm ET - Teaching focused career opportunities: Jo Hardin [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/02-teach-career/02-teach-career.pdf) [[Video]](https://youtu.be/J6iFgbHKH5Q)
 - 2:30pm - 2:45pm ET - Breakout discussion
 - 2:45pm - 3:00pm ET - Break
-- 3:00pm - 3:30pm ET - Education research and opportunities for grants: Beth Chance [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/03-education-research-grants/03-education-research-grants.pdf) [[Video]](https://youtu.be/lALpljdA40U)
+- 3:00pm - 3:30pm ET - Opportunities in statistics education research: Beth Chance [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/03-education-research-grants/03-education-research-grants.pdf) [[Video]](https://youtu.be/lALpljdA40U)
 - 3:30pm - 3:45pm ET - Q&A
 - 3:45pm - 4:15pm ET - Your first year as faculty: Lucy D’Agostino McGowan [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/04-first-year-faculty/04-first-year-faculty.pdf) [[Video]](https://youtu.be/C0NJoQW4VEE)
 - 4:15pm - 4:30pm ET - Breakout discussion
