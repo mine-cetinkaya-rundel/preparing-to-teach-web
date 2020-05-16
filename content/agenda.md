@@ -31,11 +31,13 @@ All times are ET.
 
 | Time          | Session           | Slides | Video     |
 |---------------|-------------------|--------|-----------|
-| 3:30-4:15pm | (*)Teaching intro statistics   |  |  |
+| 3:30-4:15pm | (*) Teaching intro statistics   |  |  |
 |             | Ulrike Genschel                |  |  |
-| 4:15-5:15pm | (*)Teaching intro data science |  |  |
+| 4:15-5:15pm | (*) Teaching intro data science |  |  |
 |             | Mine Çetinkaya-Rundel          |  |  |
 | 5:15-5:30pm | Break                          |  |  |
 | 5:30-6:00pm | Wrap up                        |  |  |
+
+<br>
 
 (*) Open to all eCOTS 2020 participants.
