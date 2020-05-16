@@ -11,7 +11,7 @@ All times are ET.
 | Time          | Session           | Slides | Video     |
 |---------------|-------------------|--------|-----------|
 | 1:00-1:15pm | Welcome and introductions   |  |  |
-| 1:15-1:45pm | Implementing GAISE Recommendations for Teaching Introductory Statistics | [<i class="fas fa-chalkboard"></i>](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/01-gaise/01-gaise.pdf) | [[Video]](https://youtu.be/onpEINJQ5sw) |
+| 1:15-1:45pm | Implementing GAISE Recommendations | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/01-gaise/01-gaise.pdf) | [[Video]](https://youtu.be/onpEINJQ5sw) |
 |             | Allan Rossman   |  |  |
 | 1:45-2:00pm | Breakout discussion         |  |  |
 | 2:00-2:30pm | Teaching focused career opportunities | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/02-teach-career/02-teach-career.pdf) | [[Video]](https://youtu.be/J6iFgbHKH5Q) |
