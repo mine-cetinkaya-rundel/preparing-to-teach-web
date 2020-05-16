@@ -2,9 +2,9 @@
 title: "Call recap: Your first year as a faculty member"
 author: Allison Theobold
 date: '2019-11-21'
-slug: recap
-categories: []
-tags: []
+slug: recap-first-year-faculty
+categories: [call recap]
+tags: [new faculty]
 ---
 
 The topic of our November 21, 2020 call was first year as a faculty member. 

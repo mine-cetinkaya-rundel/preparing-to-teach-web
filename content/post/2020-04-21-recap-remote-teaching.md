@@ -2,9 +2,9 @@
 title: "Call recap: Remote teaching"
 author: "Allison Theobold"
 date: "2020-04-21"
-slug: recap
-tags: []
-categories: []
+slug: recap-remote-teaching
+categories: [call recap]
+tags: [remote, online]
 ---
 
 The topic of our April 21, 2020 call was remote teaching. We had a very productive
