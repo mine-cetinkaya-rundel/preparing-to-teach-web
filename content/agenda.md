@@ -31,9 +31,9 @@ All times are ET.
 
 | Time          | Session           | Slides | Video     |
 |---------------|-------------------|--------|-----------|
-| 3:30-4:15pm | (*) Teaching intro statistics   |  |  |
+| 3:30-4:15pm | (*) Teaching intro statistics   |  [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/06-intro-stat/06-intro-stat.pdf) |  [[Video]](https://www.causeweb.org/cause/ecots/ecots20/workshops/2) |
 |             | Ulrike Genschel                |  |  |
-| 4:15-5:15pm | (*) Teaching intro data science |  |  |
+| 4:15-5:15pm | (*) Teaching intro data science |  [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/07-intro-data-sci/07-intro-data-sci.pdf) |  [[Video]](https://www.causeweb.org/cause/ecots/ecots20/workshops/2) |
 |             | Mine Çetinkaya-Rundel          |  |  |
 | 5:15-5:30pm | Break                          |  |  |
 | 5:30-6:00pm | Wrap up                        |  |  |
