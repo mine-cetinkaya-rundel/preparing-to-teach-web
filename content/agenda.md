@@ -1,5 +1,5 @@
 ---
-date: "2020-07-06"
+date: "2021-07-06"
 draft: false
 title: Agenda
 ---
@@ -8,19 +8,19 @@ All times are ET.
 
 ### Friday, 6 August
 
-| Time          | Session           | Slides | Video     |
-|---------------|-------------------|--------|-----------|
-| **11:15-11:45 | Intro stat + GAISE** | |
-| **11:45-12:15 | Intro data science** | |
-| 12:15-12:30   | Discussion on assessments in introductory curricula | |
-| 12:30-12:45   | Break (15 min) | |
-| **12:45-13:15 | Teaching focused career opportunities** | |
-| **13:15-13:45 | Your first year as faculty / early career faculty** | |
-| 13:45-14:15   | Break (30 min) | |
-| 14:15-14:30   | Discussion on career pathways | |
-| **14:30-15:00 | Opportunities in statistics education research** | |
-| **15:00-15:30 | Undergraduate mentoring / research with undergrads** | |
-| 15:30-15:45   | Break (15 min) | |
-| 15:45-16:05   | Breakout rooms with different topics - Round 1 | |
-| 16:05-16:25   | Breakout rooms with different topics - Round 2 | |
-| 16:30-17:00   | Reflection/discussion | |
+| Time        | Session           | Slides | Video     |
+|-------------|-------------------|--------|-----------|
+| 11:15-11:45 | Intro stat + GAISE | | |
+| 11:45-12:15 | Intro data science | | |
+| 12:15-12:30 | Discussion on assessments in introductory curricula | | |
+| 12:30-12:45 | Break (15 min) | | |
+| 12:45-13:15 | Teaching focused career opportunities | | |
+| 13:15-13:45 | Your first year as faculty / early career faculty | | |
+| 13:45-14:15 | Break (30 min) | | |
+| 14:15-14:30 | Discussion on career pathways | | |
+| 14:30-15:00 | Opportunities in statistics education research | | |
+| 15:00-15:30 | Undergraduate mentoring / research with undergrads | | |
+| 15:30-15:45 | Break (15 min) | | |
+| 15:45-16:05 | Breakout rooms with different topics - Round 1 | | |
+| 16:05-16:25 | Breakout rooms with different topics - Round 2 | | |
+| 16:30-17:00 | Reflection/discussion | | |

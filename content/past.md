@@ -1,7 +1,41 @@
 ---
-date: "2020-04-20"
+date: "2021-07-06"
 draft: false
 title: Past workshops
+---
+
+### Preparing to Teach - JSM 2020
+
+Virtual
+
+#### Speakers
+
+Beth Chance, Mine Çetinkaya-Rundel, Lucy D’Agostino McGowan, Ulrike Genschel, Jo Hardin, Allan Rossman
+
+#### Organisers
+
+Mine Çetinkaya-Rundel
+
+#### Agenda
+
+In addition to the following sessions lead by the speakers, we held breakout discussions.
+
+- Session 1: Implementing GAISE Recommendations
+- Session 2: Teaching focused career opportunities
+- Session 3: Opportunities in statistics education research
+- Session 4: Your first year as faculty
+- Session 5: Teaching remotely
+- Session 6: Teaching intro statistics
+- Session 7: Teaching intro data science
+
+#### Materials
+
+Materials from PTT 2020 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/releases/tag/ptt-2020).
+
+#### Acknowledgements
+
+This workshop was organized by the Section on Statistics and Data Science Education of the American Statistical Association.
+
 ---
 
 ### Preparing to Teach - JSM 2019
@@ -28,7 +62,7 @@ In addition to the following sessions lead by the speakers, we held roundtable d
 
 #### Materials
 
-Materials from PTT 2018 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/releases/tag/ptt-2019).
+Materials from PTT 2019 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/releases/tag/ptt-2019).
 
 #### Acknowledgements
 

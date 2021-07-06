@@ -1,8 +1,12 @@
 ---
-date: "2020-04-20"
+date: "2021-07-06"
 draft: false
 title: Presenters
 ---
+
+TBA
+
+<!--
 
 **Beth Chance** is Professor of Statistics at Cal Poly, San Luis Obispo. Dr. Chance has been involved in statistics education research for several years, especially in the areas of assessment and technology, and she has background in program evaluation and curriculum development.  She is an award winning teacher (American Statistical Association’s Waller Education Award) and her applets have been recognized by Merlot. With Dr. Allan Rossman and others she has co-authored three introductory textbooks that focus on using active learning and constructivism to improve students’ statistical thinking and literacy, and a new textbook for a second course in statistics is coming this fall. Dr. Chance has received several NSF grants for her work and is a fellow of the American Statistical Association. She was 2018 Chair of the Section on Statistics Education (American Statistical Association).
 
@@ -16,7 +20,6 @@ title: Presenters
 
 **Allan Rossman** is Professor of Statistics, Cal Poly - San Luis Obispo. Allan co-author of several innovative textbooks, all rooted in an active learning pedagogy. He has given scores of workshops for teachers and future teachers, including as part of the Project NExT program. With Tom Short, he directed the STATS workshop series through the MAA in the 1990s to prepare instructors in mathematics departments to teach statistics, and has received several NSF grants for his innovative pedagogy. He was a member of both GAISE guidelines writing committees and recently received the Waller Distinguished Teaching Career Award recognizing his national and international impact in statistics education. He has also led the Journal of Statistics Education interview series of statistics educators since 2011 
 
-<!--
 **Nicholas Horton** is Beitzel Professor of Technology and Society and Professor of Statistics in the Department of Mathematics and Statistics at Amherst College. He is a fellow of the ASA and the AAAS and recent recipient of the ASA's Founder’s Award for Distinguished Service. He received the 2009 ASA Waller Education Award and the 2015 Robert V. Hogg Award for excellence in teaching introductory statistics, among others. He is one of the lead developers of the R Mosaic package for facilitating use of R in statistics courses to a broad audience. He is also co-author of Modern Data Science with R (CRC Press). He has held numerous leadership positions in the ASA including Chair of the Section of Statistics Education and lead author of the ASA Curriculum Guidelines for Undergraduate Programs in Statistical Science. As Section Chair, he reinstated and developed the Section’s mentoring program for younger faculty.
 
 -->
