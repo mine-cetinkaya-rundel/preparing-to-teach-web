@@ -6,7 +6,7 @@ title: Agenda
 
 All times are ET.
 
-### Friday, 6 August
+### Friday, 13 August
 
 | Time          | Session           | Slides   | Video       |
 |---------------|-------------------|----------|-------------|
