@@ -1,43 +1,26 @@
 ---
-date: "2020-04-20"
+date: "2020-07-06"
 draft: false
 title: Agenda
 ---
 
 All times are ET.
 
-### Friday, 15 May
+### Friday, 6 August
 
 | Time          | Session           | Slides | Video     |
 |---------------|-------------------|--------|-----------|
-| 1:00-1:15pm | Welcome and introductions   |  |  |
-| 1:15-1:45pm | Implementing GAISE Recommendations | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/01-gaise/01-gaise.pdf) | [[Video]](https://youtu.be/onpEINJQ5sw) |
-|             | Allan Rossman   |  |  |
-| 1:45-2:00pm | Breakout discussion         |  |  |
-| 2:00-2:30pm | Teaching focused career opportunities | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/02-teach-career/02-teach-career.pdf) | [[Video]](https://youtu.be/J6iFgbHKH5Q) |
-|             | Jo Hardin   |  |  |
-| 2:30-2:45pm | Breakout discussion         |  |  |
-| 2:45-3:00pm | Break                       |  |  |
-| 3:00-3:30pm | Opportunities in statistics education research | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/03-education-research-grants/03-education-research-grants.pdf) | [[Video]](https://youtu.be/lALpljdA40U) |
-|             | Beth Chance   |  |  |
-| 3:30-3:45pm | Q&A                         |  |  |
-| 3:45-4:15pm | Your first year as faculty | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/04-first-year-faculty/04-first-year-faculty.pdf) |  [[Video]](https://youtu.be/C0NJoQW4VEE) |
-|             | Lucy D’Agostino McGowan     |  |  |
-| 4:15-4:30pm | Breakout discussion         |  |  |
-| 4:30-5:00pm | Teaching remotely | [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/05-remote-teaching/05-remote-teaching.pdf) | [[Video]](https://youtu.be/Rx9dLRdURGA) |
-|             | Mine Çetinkaya-Rundel       |  |  |
-
-### Wednesday, 20 May
-
-| Time          | Session           | Slides | Video     |
-|---------------|-------------------|--------|-----------|
-| 3:30-4:15pm | (*) Teaching intro statistics   |  [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/06-intro-stat/06-intro-stat.pdf) |  [[Video]](https://www.causeweb.org/cause/ecots/ecots20/workshops/2) |
-|             | Ulrike Genschel                |  |  |
-| 4:15-5:15pm | (*) Teaching intro data science |  [[Slides]](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/07-intro-data-sci/07-intro-data-sci.pdf) |  [[Video]](https://www.causeweb.org/cause/ecots/ecots20/workshops/2) |
-|             | Mine Çetinkaya-Rundel          |  |  |
-| 5:15-5:30pm | Break                          |  |  |
-| 5:30-6:00pm | Wrap up                        |  |  |
-
-<br>
-
-(*) Open to all eCOTS 2020 participants.
+| **11:15-11:45 | Intro stat + GAISE** | |
+| **11:45-12:15 | Intro data science** | |
+| 12:15-12:30   | Discussion on assessments in introductory curricula | |
+| 12:30-12:45   | Break (15 min) | |
+| **12:45-13:15 | Teaching focused career opportunities** | |
+| **13:15-13:45 | Your first year as faculty / early career faculty** | |
+| 13:45-14:15   | Break (30 min) | |
+| 14:15-14:30   | Discussion on career pathways | |
+| **14:30-15:00 | Opportunities in statistics education research** | |
+| **15:00-15:30 | Undergraduate mentoring / research with undergrads** | |
+| 15:30-15:45   | Break (15 min) | |
+| 15:45-16:05   | Breakout rooms with different topics - Round 1 | |
+| 16:05-16:25   | Breakout rooms with different topics - Round 2 | |
+| 16:30-17:00   | Reflection/discussion | |
