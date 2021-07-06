@@ -10,6 +10,7 @@ All times are ET.
 
 | Time          | Session           | Slides   | Video       |
 |---------------|-------------------|----------|-------------|
+| 11:00-11:15   | Welcome + Introductions  |  |  |
 | 11:15-11:45   | Intro stat + GAISE  |  |  |
 | 11:45-12:15   | Intro data science  |  |  |
 | 12:15-12:30   | Discussion on assessments in introductory curricula  |  |  |
