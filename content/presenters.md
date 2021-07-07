@@ -4,7 +4,10 @@ draft: false
 title: Presenters
 ---
 
-TBA
+**Allan Rossman** is Professor of Statistics, Cal Poly - San Luis Obispo. Allan co-author of several innovative textbooks, all rooted in an active learning pedagogy. He has given scores of workshops for teachers and future teachers, including as part of the Project NExT program. With Tom Short, he directed the STATS workshop series through the MAA in the 1990s to prepare instructors in mathematics departments to teach statistics, and has received several NSF grants for his innovative pedagogy. He was a member of both GAISE guidelines writing committees and recently received the Waller Distinguished Teaching Career Award recognizing his national and international impact in statistics education. He has also led the Journal of Statistics Education interview series of statistics educators since 2011 
+
+
+*Remaining presenters TBA!*
 
 <!--
 
@@ -18,7 +21,6 @@ TBA
 
 **Jo Hardin** is Professor of Mathematics at Pomona College in Southern California. Dr. Hardin’s research area is in generating novel statistical methods for analyzing biological high throughput methods. She has also worked for many years in research on statistics and data science education, particularly in areas of modernizing the curriculum. In summer 2019, she and colleagues blogged daily to create [50 topics on teaching data science](https://teachdatascience.com/). She has won multiple teaching awards and is a fellow of both the American Statistical Association as well as the International Statistics Institute. She is the chair-elect of the Section on Statistics and Data Science Education of the American Statistical Association.
 
-**Allan Rossman** is Professor of Statistics, Cal Poly - San Luis Obispo. Allan co-author of several innovative textbooks, all rooted in an active learning pedagogy. He has given scores of workshops for teachers and future teachers, including as part of the Project NExT program. With Tom Short, he directed the STATS workshop series through the MAA in the 1990s to prepare instructors in mathematics departments to teach statistics, and has received several NSF grants for his innovative pedagogy. He was a member of both GAISE guidelines writing committees and recently received the Waller Distinguished Teaching Career Award recognizing his national and international impact in statistics education. He has also led the Journal of Statistics Education interview series of statistics educators since 2011 
 
 **Nicholas Horton** is Beitzel Professor of Technology and Society and Professor of Statistics in the Department of Mathematics and Statistics at Amherst College. He is a fellow of the ASA and the AAAS and recent recipient of the ASA's Founder’s Award for Distinguished Service. He received the 2009 ASA Waller Education Award and the 2015 Robert V. Hogg Award for excellence in teaching introductory statistics, among others. He is one of the lead developers of the R Mosaic package for facilitating use of R in statistics courses to a broad audience. He is also co-author of Modern Data Science with R (CRC Press). He has held numerous leadership positions in the ASA including Chair of the Section of Statistics Education and lead author of the ASA Curriculum Guidelines for Undergraduate Programs in Statistical Science. As Section Chair, he reinstated and developed the Section’s mentoring program for younger faculty.
 
