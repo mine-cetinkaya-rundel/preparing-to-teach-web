@@ -12,7 +12,7 @@ All times are ET.
 |---------------|-------------------|-----------|----------|-------------|
 | 11:00-11:15   | Welcome + Introductions  |  |  |  |
 | 11:15-11:45   | Intro stat + GAISE | Allan Rossman  |  |  |
-| 11:45-12:15   | Intro data science  |  |  |  |
+| 11:45-12:15   | Intro data science  | Mine Çetinkaya-Rundel |  |  |
 | 12:15-12:30   | Discussion on assessments in introductory curricula  |  |  |  |
 | 12:30-12:45   | Break (15 min)  |  |  |  |
 | 12:45-13:15   | Teaching focused career opportunities | Ulrike Genschel and Nicholas Horton  |  |  |
