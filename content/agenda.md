@@ -16,7 +16,7 @@ All times are ET.
 | 12:15-12:30   | Discussion on assessments in introductory curricula  |  |  |  |
 | 12:30-12:45   | Break (15 min)  |  |  |  |
 | 12:45-13:15   | Teaching focused career opportunities | Ulrike Genschel and Nicholas Horton  |  |  |
-| 13:15-13:45   | Your first year as faculty / early career faculty | Allison Theobold  |  |  |
+| 13:15-13:45   | Your first year as faculty / early career faculty | Allison Theobold  and Sara Stoudt  |  |  |
 | 13:45-14:15   | Break (30 min)  |  |  |  |
 | 14:15-14:30   | Discussion on career pathways  |  |  |  |
 | 14:30-15:00   | opportunities for scholarship in statistics education  | Beth Chance  |  |  |
