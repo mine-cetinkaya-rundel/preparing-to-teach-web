@@ -20,7 +20,7 @@ All times are ET.
 | 13:45-14:15   | Break (30 min)  |  |  |  |
 | 14:15-14:30   | Discussion on career pathways  |  |  |  |
 | 14:30-15:00   | opportunities for scholarship in statistics education  | Beth Chance  |  |  |
-| 15:00-15:30   | Undergraduate mentoring / research with undergrads  |  |  |  |
+| 15:00-15:30   | Undergraduate mentoring / research with undergrads  | Yue Jiang |  |  |
 | 15:30-15:45   | Break (15 min)  |  |  |  |
 | 15:45-16:05   | Breakout rooms with different topics - Round 1  |  |  |  |
 | 16:05-16:25   | Breakout rooms with different topics - Round 2  |  |  |  |
