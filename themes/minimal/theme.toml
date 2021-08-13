@@ -6,7 +6,9 @@ homepage = "http://github.com/calintat/minimal/"
 tags = ["blog", "minimal", "personal", "responsive"]
 features = ["responsive"]
 min_version = "0.24.1"
-
+[params]
+    font = "Atkinson Hyperlegible"
+    
 [author]
   name = "Calin Tataru"
   homepage = "https://calintat.github.io/"
