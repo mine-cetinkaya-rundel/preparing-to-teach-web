@@ -6,6 +6,7 @@ title: Agenda
 
 The workshop will take place on **Friday, 13 August, 2021** on Zoom. All times listed below are ET.
 
+{.table .table-striped}
 | Time          | Session           | Presenter(s) | Slides   | Video       |
 |---------------|-------------------|--------------|----------|-------------|
 | 11:00-11:15   | Welcome + Introductions  |  |  |  |
