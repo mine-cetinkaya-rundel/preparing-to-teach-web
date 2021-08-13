@@ -7,9 +7,6 @@ tags = ["blog", "minimal", "personal", "responsive"]
 features = ["responsive"]
 min_version = "0.24.1"
 
-[params]
-    font = "Timmana"
-    
 [author]
   name = "Calin Tataru"
   homepage = "https://calintat.github.io/"

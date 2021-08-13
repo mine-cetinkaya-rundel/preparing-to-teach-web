@@ -15,7 +15,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-
+    font = "Atkinson Hyperlegible"
+    
 [[menu.main]]
     url = "/"
     name = "Home"
