@@ -8,7 +8,7 @@ features = ["responsive"]
 min_version = "0.24.1"
 
 [params]
-    font = "Atkinson Hyperlegible"
+    font = "Timmana"
     
 [author]
   name = "Calin Tataru"
