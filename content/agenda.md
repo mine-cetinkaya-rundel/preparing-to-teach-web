@@ -4,9 +4,7 @@ draft: false
 title: Agenda
 ---
 
-All times are ET.
-
-### Friday, 13 August
+The workshop will take place on **Friday, 13 August, 2021** on Zoom. All times listed below are ET.
 
 | Time          | Session           | Presenter(s) | Slides   | Video       |
 |---------------|-------------------|-----------|----------|-------------|
