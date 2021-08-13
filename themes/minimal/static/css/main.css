@@ -99,12 +99,15 @@ img {
     max-width: 100%;
 }
 
-table {
-  border-collapse: collapse;
-  width: 100%;
+.agenda table th:first-of-type {
+    width: 10%;
 }
-td {
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  padding: 0.6rem;
+.agenda table th:nth-of-type(2) {
+    width: 10%;
+}
+.agenda table th:nth-of-type(3) {
+    width: 50%;
+}
+.agenda table th:nth-of-type(4) {
+    width: 30%;
 }
