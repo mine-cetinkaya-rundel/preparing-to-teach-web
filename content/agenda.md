@@ -7,7 +7,7 @@ title: Agenda
 The workshop will take place on **Friday, 13 August, 2021** on Zoom. All times listed below are ET.
 
 | Time          | Session           | Presenter(s) | Slides   | Video       |
-|---------------|-------------------|-----------|----------|-------------|
+|---------------|-------------------|--------------|----------|-------------|
 | 11:00-11:15   | Welcome + Introductions  |  |  |  |
 | 11:15-11:45   | Intro stat + GAISE | Allan Rossman  |  |  |
 | 11:45-12:15   | Intro data science  | Mine Çetinkaya-Rundel and Allison Theobold |  |  |
