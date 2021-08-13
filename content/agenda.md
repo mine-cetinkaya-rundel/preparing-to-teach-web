@@ -9,7 +9,7 @@ The workshop will take place on **Friday, 13 August, 2021** on Zoom. All times l
 | Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Session                           | Presenter(s) | Slides   | Video       |
 |:-------------- |:----------------------------------|:-------------|:--------:|:-----------:|
 | 11:00 - 11:15  | Welcome + Introductions           |  |  |  |
-| 11:15 - 11:45  | Intro stat + GAISE                | Allan Rossman  | <i class="fas fa-tv"></i>  |  |
+| 11:15 - 11:45  | Intro stat + GAISE                | Allan Rossman  | <a href="https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/01-intro-stat-gaise/01-intro-stat-gaise.pdf"><i class="fas fa-tv"></i></a>  |  |
 | 11:45 - 12:15  | Teaching intro data science       | Mine Çetinkaya-Rundel and Allison Theobold |  |  |
 | 12:15 - 12:30  | Discussion on assessments in introductory curricula  |  |  |  |
 | 12:30 - 12:45  | Break (15 min)                    |  |  |  |
