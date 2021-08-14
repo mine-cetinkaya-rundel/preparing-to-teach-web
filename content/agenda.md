@@ -20,7 +20,7 @@ The workshop will take place on **Friday, 13 August, 2021** on Zoom. All times l
 | 14:30 - 15:00  | Opportunities for scholarship in statistics education  | Beth Chance  | <a href="https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/05-stat-ed-scholarship/05-stat-ed-scholarship.pdf"><i class="fas fa-tv"></i></a> |  |
 | 15:00 - 15:30  | Undergraduate mentoring / research with undergrads  | Yue Jiang | <a href="https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/06-ugrad-mentoring/06-ugrad-mentoring.pdf"><i class="fas fa-tv"></i></a> |  |
 | 15:30 - 15:45  | Break (15 min)                    |  |  |  |
-| 15:45 - 16:25  | Breakout discussions - Round 1    |  |  |  |
+| 15:45 - 16:05  | Breakout discussions - Round 1    |  |  |  |
 |                | Teaching with technology          | Nick Horton + Beth Chance | <a href="https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/07-breakout-technology/07-breakout-technology.pdf"><i class="fas fa-tv"></i></a> |  |
 |                | Remote teaching                   | Yue Jiang + Ulrike Genschel |  |  |
 |                | Teaching Bayesian statistics      | Monika Hu | <a href="https://github.com/mine-cetinkaya-rundel/preparing-to-teach/blob/master/07-breakout-bayesian/07-breakout-bayesian.pdf"><i class="fas fa-tv"></i></a> |  |
