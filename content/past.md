@@ -4,7 +4,7 @@ draft: false
 title: Past workshops
 ---
 
-### Preparing to Teach - JSM 2020
+### Preparing to Teach - USCOTS 2020
 
 Virtual
 
