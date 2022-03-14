@@ -4,6 +4,40 @@ draft: false
 title: Past workshops
 ---
 
+### Preparing to Teach - USCOTS 2021
+
+Virtual
+
+#### Speakers
+
+Beth Chance, Mine Çetinkaya-Rundel, Ulrike Genschel, Nick Horton, Yue Jiang, Allan Rossman, Sara Stoudt, Allison Theobold
+
+#### Organisers
+
+Mine Çetinkaya-Rundel & Allison Theobold
+
+#### Agenda
+
+In addition to the following sessions lead by the speakers, we held breakout discussions.
+
+- Session 1: Intro Stat & GAISE
+- Session 2: Teaching intro data science
+- Session 3: Teaching focused career opportunities
+- Session 4: Your first year as faculty
+- Session 5: Opportunities for scholarship in statistics education
+- Session 6: Undergraduate mentoring / research with undergrads
+
+
+#### Materials
+
+Materials from PTT 2021 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/releases/tag/ptt-2021).
+
+#### Acknowledgements
+
+This workshop was organized by the Section on Statistics and Data Science Education of the American Statistical Association.
+
+---
+
 ### Preparing to Teach - USCOTS 2020
 
 Virtual
