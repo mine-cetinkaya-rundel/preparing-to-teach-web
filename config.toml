@@ -7,7 +7,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     author = "Mine Cetinkaya-Rundel"
-    description = "August 6, 2022 - in-person <br> before JSM 2021 <br><br> Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science."
+    description = "August 6, 2022 - in-person <br> before JSM 2022 <br><br> Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science."
     accent = "#007CB7"
     showBorder = true
     backgroundColor = "white"
