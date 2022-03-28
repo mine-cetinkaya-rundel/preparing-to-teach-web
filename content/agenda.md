@@ -4,7 +4,7 @@ draft: false
 title: Agenda
 ---
 
-The workshop will take place on **Saturday, 6 August, 2023** at George Mason University. All times listed below are ET.
+The workshop will take place on **Saturday, 6 August, 2022** at George Mason University. All times listed below are ET.
 
 Below is a preliminary agenda for the workshop. 
 
