@@ -13,7 +13,7 @@ Below is a preliminary agenda for the workshop.
 | 8:15 - 9:00   | Welcome and introductions                                           |
 | 9:00 - 10:15  | Teaching-focused careers                                            | Jo Hardin + Beth Chance
 | 10:15 - 10:30 | Break ☕                                                      |
-| 10:30	- 11:30 | Your first year as faculty / early career faculty                   | Jessie Oehrlein + Cieran Evans |
+| 10:30	- 11:30 | Your first year as faculty / early career faculty                   | Jessie Oehrlein + Ciaran Evans |
 | 11:30 - 13:00 | Lunch 🍽️  + Roundtable discussions                     |
 | 13:00 - 14:00 | GAISE recommendations, teaching intro stats and assessing learning  | Sara Stoudt + Allison Theobold
 | 14:00 - 15:00 | Teaching intro data science and assessing learning                  | Maria Tackett 
