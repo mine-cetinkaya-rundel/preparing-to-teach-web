@@ -14,7 +14,7 @@ title: Presenters
 
 **Yue Jiang** is Assistant Professor of the Practice of Statistical Science at Duke University. A biostatistician by training, Yue has applied research interests in public health and biomedicine, and routinely involves undergraduate students in such projects. He is also working with the Duke University School of Medicine to revamp their statistical and quantitative literacy module for medical students. Finally, Yue has pedagogical interests in formally developing and directly teaching peer review skills and will be leading a Birds of a Feather discussion group on the topic prior to this year’s JSM.
 
-**Jessie Oehrlein** -- Bio coming soon!
+**Jessie Oehrlein** is an Assistant Professor of Mathematics at Fitchburg State University in north central Massachusetts. She received a PhD in Applied Math, with a focus on atmospheric science, from Columbia University. Jessie's research is focused on using a combination of observations and models to better understand winter climate. Jessie is also interested in guided inquiry approaches to teaching statistics.
 
 **Sara Stoudt** is an applied statistician with research interests in ecology and the communication of statistics. Stoudt received her doctorate in statistics from the University of California, Berkeley, and she is starting as an Assistant Professor in the Department of Mathematics at Bucknell University in the fall. Follow Sara on Twitter (@sastoudt) and check out her recent book with Deborah Nolan, Communicating with Data: The Art of Writing for Data Science.
 
