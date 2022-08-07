@@ -18,5 +18,5 @@ Below is a preliminary agenda for the workshop.
 | 13:00 - 14:00 | GAISE recommendations, teaching intro stats and assessing learning  | Sara Stoudt + Allison Theobold
 | 14:00 - 15:00 | Teaching intro data science and assessing learning                  | Maria Tackett 
 | 15:00 - 15:15 | Break ☕                                                      |
-| 15:15 - 15:45 | Mentoring undergraduate researchers                                 | Yue Jiang 
-| 15:45 - 16:00 | Wrap-Up and Moving forward                                          |
+| 15:15 - 16:15 | Mentoring undergraduate researchers                                 | Yue Jiang 
+| 16:15 - 16:30 | Wrap-Up and Moving forward                                          |
