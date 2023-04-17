@@ -1,0 +1,57 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Preparing to Teach"
+  description: "Homepage for STAT 313 - Applied Experimental Design and Regression Models at Cal Poly, Spring 2023."
+  site-url: "https://atheobold.github.io/preparing-to-teach-web-quarto/"
+  repo-url: https://github.com/atheobold/preparing-to-teach-web-quarto
+  repo-actions: [issue]
+
+  #open-graph: true
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2023, Mine Çetinkaya-Rundel & Allison Theobold"
+    background: "#D9E3E4"
+
+  navbar:
+    background: "#D9E3E4"
+    align: center
+    collapse-below: lg
+  
+    right:
+      - icon: github
+        href: https://github.com/atheobold/preparing-to-teach-web-quarto
+        text: "GitHub"
+      - icon: email
+        href: https://posit.cloud/
+        text: "Contact Us!"
+
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Apply"
+        href: apply.qmd
+      - text: "Agenda"
+        href: agenda.qmd
+      - text: "Presenters"
+        href: presenters.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - text: "Past Workshops"
+        href: past_workshops.qmd
+
+   
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+callout-appearance: simple
+
+editor: visual

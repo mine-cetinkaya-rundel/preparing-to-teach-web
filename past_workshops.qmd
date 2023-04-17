@@ -1,7 +1,5 @@
 ---
-date: "2021-07-06"
-draft: false
-title: Past workshops
+title: "Past workshops"
 ---
 
 ### Preparing to Teach - USCOTS 2021
