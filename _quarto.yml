@@ -5,7 +5,6 @@ website:
   page-navigation: true
   title: "Preparing to Teach"
   description: "Preparing to Teach - One-day workshop to prepare current and recent graduate students for a future role as faculty responsible for teaching statistics and data science to undergraduate students across a variety of disciplines."
-  site-url: https://preparingtoteach.org/
   repo-url: https://github.com/mine-cetinkaya-rundel/preparing-to-teach-web
   repo-actions: [issue]
 
