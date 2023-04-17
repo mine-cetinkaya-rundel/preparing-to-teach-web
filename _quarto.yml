@@ -4,12 +4,12 @@ project:
 website:
   page-navigation: true
   title: "Preparing to Teach"
-  description: "Homepage for STAT 313 - Applied Experimental Design and Regression Models at Cal Poly, Spring 2023."
-  site-url: "https://atheobold.github.io/preparing-to-teach-web-quarto/"
-  repo-url: https://github.com/atheobold/preparing-to-teach-web-quarto
+  description: "Preparing to Teach - One-day workshop to prepare current and recent graduate students for a future role as faculty responsible for teaching statistics and data science to undergraduate students across a variety of disciplines."
+  site-url: https://preparingtoteach.org/
+  repo-url: https://github.com/mine-cetinkaya-rundel/preparing-to-teach-web
   repo-actions: [issue]
 
-  #open-graph: true
+  open-graph: true
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
@@ -23,11 +23,9 @@ website:
   
     right:
       - icon: github
-        href: https://github.com/atheobold/preparing-to-teach-web-quarto
-        text: "GitHub"
+        href: https://github.com/mine-cetinkaya-rundel/preparing-to-teach-web
       - icon: email
-        href: https://posit.cloud/
-        text: "Contact Us!"
+        href: mailto:atheobol@calpoly.edu
 
     left:
       - text: "Home"
