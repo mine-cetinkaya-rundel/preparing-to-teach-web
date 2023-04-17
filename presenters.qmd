@@ -2,6 +2,12 @@
 title: "Presenters"
 ---
 
+## This year's presenters
+
+TBA!
+
+## Past presenters
+
 **Beth Chance** is Professor of Statistics at Cal Poly, San Luis Obispo.
 Dr. Chance has been involved in statistics education research for several years, especially in the areas of assessment and technology, and she has background in program evaluation and curriculum development.
 She is an award winning teacher (American Statistical Association's Waller Education Award) and her applets have been recognized by Merlot.
