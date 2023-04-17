@@ -43,7 +43,7 @@ website:
       - text: "Resources"
         href: resources.qmd
       - text: "Past Workshops"
-        href: past_workshops.qmd
+        href: past-workshops.qmd
 
    
 format:
