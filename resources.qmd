@@ -1,11 +1,9 @@
 ---
-title: "Step 4: Digging Deeper"
+title: "Resources"
+listing:
+  contents: resources
 ---
 
-## Your first year as a faculty member
+More resources to be added soon!
 
-- [Notes from November 2019 Meeting](resources/2019-11-21-recap.qmd)
-
-## Remote teaching
-
-- [Notes from April 2020 Meeting](resources/2020-04-21-recap.qmd)
+<br>
