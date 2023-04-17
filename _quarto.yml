@@ -29,20 +29,13 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
-      - text: "Apply"
-        href: apply.qmd
-      - text: "Agenda"
-        href: agenda.qmd
-      - text: "Presenters"
-        href: presenters.qmd
-      - text: "Resources"
-        href: resources.qmd
-      - text: "Past Workshops"
-        href: past-workshops.qmd
+      - href: about.qmd
+      - href: apply.qmd
+      - href: agenda.qmd
+      - href: presenters.qmd
+      - href: resources.qmd
+      - href: past-workshops.qmd
 
-   
 format:
   html:
     theme: cosmo
