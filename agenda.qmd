@@ -2,20 +2,21 @@
 title: "Agenda"
 ---
 
-The workshop will take place on **Saturday, 5 August, 2023** at University of Scarborough. All times listed below are ET.
+The workshop will take place on **Saturday, 5 August, 2023** at University of Scarborough.
+All times listed below are ET.
 
 Below is a preliminary agenda for the workshop.
 
-| Time           | Session                                            | Presenter(s)          |
-|:-----------------|:------------------------------------|:-----------------|
-| 8:15 - 9:00    | Welcome and introductions                          | Allison Theobold      |
-| 9:00 - 9:45    | Teaching-focused careers                           | TBA                   |
-| 9:45 - 10:30   | Statistics and data science education research     | TBA                   |
-| 10:30 - 10:45  | Break ☕                                           |                       |
-| 10:45 - 11:30  | Your first year as faculty / early career faculty  | TBA                   |
-| 11:30 - 13:00  | Lunch 🍽️ + Roundtable discussions                  |                       |
-| 13:00 - 14:00  | Teaching intro stats and assessing learning        | TBA                   |
-| 14:00 - 15:00  | Teaching intro data science and assessing learning | TBA                   |
-| 15:00 - 15:15  | Break ☕                                           |                       |
-| 15:15 - 16:30  | Equitable teaching                                 | TBA                   |
-| 16:30 - 16:45  | Wrap-up and moving forward                         | Mine Çetinkaya-Rundel |
+| Time          | Session                                            | Presenter(s)          |
+|:-----------------|:-----------------------------------|:-----------------|
+| 8:15 - 9:00   | Welcome and introductions                          | Allison Theobold      |
+| 9:00 - 9:45   | Teaching-focused careers                           | TBA                   |
+| 9:45 - 10:30  | Statistics and data science education research     | TBA                   |
+| 10:30 - 10:45 | Break ☕                                           |                       |
+| 10:45 - 11:30 | Your first year as faculty / early career faculty  | TBA                   |
+| 11:30 - 13:00 | Lunch 🍽️ + Roundtable discussions                  |                       |
+| 13:00 - 14:00 | Teaching intro stats and assessing learning        | TBA                   |
+| 14:00 - 15:00 | Teaching intro data science and assessing learning | TBA                   |
+| 15:00 - 15:15 | Break ☕                                           |                       |
+| 15:15 - 16:30 | Equitable teaching                                 | TBA                   |
+| 16:30 - 16:45 | Wrap-up and moving forward                         | Mine Çetinkaya-Rundel |
