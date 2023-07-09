@@ -8,33 +8,33 @@ All times listed below are ET.
 Below is a preliminary agenda for the workshop.
 
 | Time          | Session                                            | Presenter(s)          |
-|:-----------------|:----------------------------------|:-----------------|
+|:------------------|:----------------------------------|:------------------|
 | 8:15 - 9:00   | Welcome and introductions                          | Allison Theobold      |
-| 9:00 - 9:45   | Teaching-focused careers                           | TBA                   |
-| 9:45 - 10:30  | Statistics and data science education research     | TBA                   |
+| 9:00 - 9:45   | Teaching-focused careers                           | Colin Rundel          |
+| 9:45 - 10:30  | Statistics and data science education research     | Mine Dogucu           |
 | 10:30 - 10:45 | Break ☕                                           |                       |
-| 10:45 - 11:30 | Your first year as faculty / early career faculty  | TBA                   |
-| 11:30 - 13:00 | Lunch 🍽️ + Roundtable discussions                  |                       |
-| 13:00 - 14:00 | Teaching intro stats and assessing learning        | TBA                   |
-| 14:00 - 15:00 | Teaching intro data science and assessing learning | TBA                   |
+| 10:45 - 11:30 | Your first year as faculty / early career faculty  | Claire Kelling        |
+| 11:30 - 13:00 | Lunch 🍽️ + Roundtable discussions                   |See list of topics below!                        |
+| 13:00 - 14:00 | Teaching intro stats and assessing learning        | Jo Hardin             |
+| 14:00 - 15:00 | Teaching intro data science and assessing learning | Mine Çetinkaya-Rundel |
 | 15:00 - 15:15 | Break ☕                                           |                       |
-| 15:15 - 16:30 | Equitable teaching                                 | TBA                   |
+| 15:15 - 16:30 | Equitable teaching                                 | Allison Theobold      |
 | 16:30 - 16:45 | Wrap-up and moving forward                         | Mine Çetinkaya-Rundel |
 
-
 ## Round table discussions
+
 <!-- Some possible topics! -->
 
-- Small-scale grants (e.g., EAGER, LEAPS)
+<!-- -   Small-scale grants (e.g., EAGER, LEAPS) -->
 
-- Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest)
+<!-- -   Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest) -->
 
-- Alternative research projects (e.g., textbooks, websites, course materials)
+<!-- -   Alternative research projects (e.g., textbooks, websites, course materials) -->
 
-- Negotiating job offers
+<!-- -   Negotiating job offers -->
 
-- Applying for teaching-focused positions
+<!-- -   Applying for teaching-focused positions -->
 
-- Remote teaching
+<!-- -   Remote teaching -->
 
-- Alternative assessments (e.g., standards-based grading, specs-based grading, ungrading, etc.)
+<!-- -   Alternative assessments (e.g., standards-based grading, specs-based grading, ungrading, etc.) -->
