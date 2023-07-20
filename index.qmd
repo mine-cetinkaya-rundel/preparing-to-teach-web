@@ -2,7 +2,7 @@
 title: "Preparing to Teach"
 ---
 
-**Preparing to Teach 2023** will be held in-person in Toronto, Canada on Saturday, August 5, 2023 (immediately before JSM 2023).
-The goal of this workshop is to prepare graduate students for a role as faculty responsible for teaching statistics and data science.
+**Preparing to Teach 2023** will be held in-person at the University of Toronto Scarborough on Saturday, August 5, 2023 (immediately before JSM 2023).
+The goal of this workshop is to prepare graduate students for a role as faculty responsible for teaching statistics a
 
 ![](images/toronto.jpg)
