@@ -5,9 +5,6 @@ title: "About"
 ::: columns
 ::: {.column width="40%"}
 The 6th Preparing for Careers in Teaching Statistics and Data Science Workshop will be held **in-person** on August 5, 2023, immediately proceeding [JSM 2023](https://ww2.amstat.org/meetings/jsm/2023/).
-
-The workshop is designed for graduate students and recent PhDs interested in careers in teaching statistics and data science.
-Priority will be given to graduate students who finished or will be finishing their program between Spring 2023 and Fall 2024.
 :::
 
 ::: {.column width="5%"}
@@ -17,6 +14,9 @@ Priority will be given to graduate students who finished or will be finishing th
 ![](images/ptt_2022.jpg)
 :::
 :::
+
+The workshop is designed for graduate students and recent PhDs interested in careers in teaching statistics and data science.
+Priority will be given to graduate students who finished or will be finishing their program between Spring 2023 and Fall 2024.
 
 This is a one-day workshop to prepare current and recent graduate students for a future role as faculty responsible for teaching statistics and data science to undergraduate students across a variety of disciplines.
 We envision workshop participants become capable of developing innovative and pedagogically-sound learning experiences for their students inside and outside the classroom and using formative and summative assessment to guide their instructional practice.
