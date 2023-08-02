@@ -18,8 +18,11 @@ Below is a preliminary agenda for the workshop.
 | 13:00 - 14:00 | Teaching intro stats and assessing learning        | Jo Hardin                 |
 | 14:00 - 15:00 | Teaching intro data science and assessing learning | Mine Çetinkaya-Rundel     |
 | 15:00 - 15:15 | Break ☕                                           |                           |
-| 15:15 - 16:30 | Equitable teaching                                 | Allison Theobold          |
-| 16:30 - 16:45 | Wrap-up and moving forward                         | Mine Çetinkaya-Rundel     |
+| 15:15 - 16:15 | Equitable teaching                                 | Allison Theobold          |
+| 16:15 - 16:30 | Wrap-up and moving forward                         | Mine Çetinkaya-Rundel     |
+| 16:30 | Group picture!                                             |         |
+| 17:00 | Bus to JSM departs                                         |         |
+
 
 ## Round table discussions
 
