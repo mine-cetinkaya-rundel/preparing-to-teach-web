@@ -2,6 +2,39 @@
 title: "Past workshops"
 ---
 
+## Preparing to Teach - JSM 2023
+
+Toronto, Canada
+
+### Speakers
+
+Mine Çetinkaya-Rundel, Mine Dougu, Jo Hardin, Claire Kelling, Colin Rundel, and Allison Theobold
+
+### Organisers
+
+Mine Çetinkaya-Rundel & Allison Theobold
+
+### Agenda
+
+In addition to the following sessions lead by the speakers, we held breakout discussions.
+
+-   Session 1: Teaching-focused careers
+-   Session 2: Statistics and data science education research
+-   Session 3: Your first year as faculty / early career faculty
+-   Session 4: Teaching intro stats and assessing learning
+-   Session 5: Teaching intro data science and assessing learning
+-   Session 6: Equitable teaching
+
+### Materials
+
+Materials from PTT 2023 can be found \[LINK TO BE ADDED\].
+
+### Acknowledgements
+
+This workshop was organized by the Section on Statistics and Data Science Education of the American Statistical Association with support from the IMS New Researchers Conference.
+
+------------------------------------------------------------------------
+
 ## Preparing to Teach - JSM 2022
 
 Washington, DC
