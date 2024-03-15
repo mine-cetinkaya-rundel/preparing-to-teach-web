@@ -2,10 +2,10 @@
 title: "Agenda"
 ---
 
-The workshop will take place on **Saturday, 5 August, 2023** at University of Toronto Scarborough.
+The workshop will take place on **Saturday, August 3, 2024** at Oregon State University.
 All times listed below are ET.
 
-Below is a preliminary agenda for the workshop.
+Below is the agenda from the 2023 Preparing to Teach workshop.
 
 | Time          | Session                                            | Presenter(s)              |
 |:------------------|:---------------------------------|:------------------|
@@ -20,23 +20,21 @@ Below is a preliminary agenda for the workshop.
 | 15:00 - 15:15 | Break ☕                                           |                           |
 | 15:15 - 16:15 | Equitable teaching                                 | Allison Theobold          |
 | 16:15 - 16:30 | Wrap-up and moving forward                         | Mine Çetinkaya-Rundel     |
-| 16:30 | Group picture!                                             |         |
-| 17:00 | Bus to JSM departs                                         |         |
-
+| 16:30         | Group picture!                                     |                           |
+| 17:00         | Bus to JSM departs                                 |                           |
 
 ## Round table discussions
 
-- Getting started with grant writing
+-   Getting started with grant writing
 
-- Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest)
+-   Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest)
 
-- Alternative research projects (e.g., software, textbooks, websites, course materials)
+-   Alternative research projects (e.g., software, textbooks, websites, course materials)
 
-- Negotiating Your Job Offer
+-   Negotiating Your Job Offer
 
-- Teaching with Technology
+-   Teaching with Technology
 
-- Culturally Responsive Teaching
+-   Culturally Responsive Teaching
 
-- Applying for Teaching-focused Positions
-
+-   Applying for Teaching-focused Positions
