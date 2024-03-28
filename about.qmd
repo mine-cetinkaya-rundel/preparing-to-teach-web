@@ -4,7 +4,7 @@ title: "About"
 
 ::: columns
 ::: {.column width="40%"}
-The 8th Preparing for Careers in Teaching Statistics and Data Science Workshop will be held **in-person** on August 3, 2024, immediately proceeding [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/).
+The 8th Preparing for Careers in Teaching Statistics and Data Science Workshop will be held at Oregon State University^[Many thanks to our local organizers, Yuan Jiang and Armeen Taeb, without whom this event would not be possible!] on August 3, 2024, immediately proceeding [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/).
 :::
 
 ::: {.column width="5%"}
