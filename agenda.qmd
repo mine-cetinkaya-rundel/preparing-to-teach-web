@@ -9,32 +9,34 @@ Below is the agenda from the 2023 Preparing to Teach workshop.
 
 | Time          | Session                                            | Presenter(s)              |
 |:------------------|:---------------------------------|:------------------|
-| 8:15 - 9:00   | Welcome and introductions                          | Allison Theobold          |
-| 9:00 - 9:45   | Teaching-focused careers                           | Colin Rundel              |
+| 8:15 - 9:00   | Welcome and introductions                          | Claire Kelling          |
+| 9:00 - 9:45   | Teaching-focused careers                           | Andrew Bray               |
 | 9:45 - 10:30  | Statistics and data science education research     | Mine Dogucu               |
 | 10:30 - 10:45 | Break ☕                                           |                           |
-| 10:45 - 11:30 | Your first year as faculty / early career faculty  | Claire Kelling            |
+| 10:45 - 11:30 | Your first year as faculty / early career faculty  | Annie Tsang               |
 | 11:30 - 13:00 | Lunch 🍽️ + Roundtable discussions                  | See list of topics below! |
 | 13:00 - 14:00 | Teaching intro stats and assessing learning        | Jo Hardin                 |
 | 14:00 - 15:00 | Teaching intro data science and assessing learning | Mine Çetinkaya-Rundel     |
 | 15:00 - 15:15 | Break ☕                                           |                           |
-| 15:15 - 16:15 | Equitable teaching                                 | Allison Theobold          |
-| 16:15 - 16:30 | Wrap-up and moving forward                         | Mine Çetinkaya-Rundel     |
+| 15:15 - 16:15 | Equitable teaching                                 | Jennifer Ward & Allison   |
+| 16:15 - 16:30 | Wrap-up and moving forward                         | Allison Theobold            |
 | 16:30         | Group picture!                                     |                           |
 | 17:00         | Bus to JSM departs                                 |                           |
 
 ## Round table discussions
 
--   Getting started with grant writing
+TBD based on survey responses!
 
--   Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest)
+<!-- -   Getting started with grant writing -->
 
--   Alternative research projects (e.g., software, textbooks, websites, course materials)
+<!-- -   Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest) -->
 
--   Negotiating Your Job Offer
+<!-- -   Alternative research projects (e.g., software, textbooks, websites, course materials) -->
 
--   Teaching with Technology
+<!-- -   Negotiating Your Job Offer -->
 
--   Culturally Responsive Teaching
+<!-- -   Teaching with Technology -->
 
--   Applying for Teaching-focused Positions
+<!-- -   Culturally Responsive Teaching -->
+
+<!-- -   Applying for Teaching-focused Positions -->
