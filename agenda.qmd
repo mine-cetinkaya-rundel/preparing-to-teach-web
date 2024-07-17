@@ -7,21 +7,21 @@ All times listed below are ET.
 
 Below is the agenda from the 2023 Preparing to Teach workshop.
 
-| Time          | Session                                            | Presenter(s)              |
+| Time          | Session                                            | Presenter(s)                     |
 |:------------------|:---------------------------------|:------------------|
-| 8:15 - 9:00   | Welcome and introductions                          | Claire Kelling          |
-| 9:00 - 9:45   | Teaching-focused careers                           | Andrew Bray               |
-| 9:45 - 10:30  | Statistics and data science education research     | Mine Dogucu               |
-| 10:30 - 10:45 | Break ☕                                           |                           |
-| 10:45 - 11:30 | Your first year as faculty / early career faculty  | Annie Tsang               |
-| 11:30 - 13:00 | Lunch 🍽️ + Roundtable discussions                  | See list of topics below! |
-| 13:00 - 14:00 | Teaching intro stats and assessing learning        | Jo Hardin                 |
-| 14:00 - 15:00 | Teaching intro data science and assessing learning | Mine Çetinkaya-Rundel     |
-| 15:00 - 15:15 | Break ☕                                           |                           |
-| 15:15 - 16:15 | Equitable teaching                                 | Jennifer Ward & Allison   |
-| 16:15 - 16:30 | Wrap-up and moving forward                         | Allison Theobold            |
-| 16:30         | Group picture!                                     |                           |
-| 17:00         | Bus to JSM departs                                 |                           |
+| 8:15 - 9:00   | Welcome and introductions                          | Claire Kelling                   |
+| 9:00 - 9:45   | Teaching-focused careers                           | Andrew Bray                      |
+| 9:45 - 10:30  | Statistics and data science education research     | Mine Dogucu                      |
+| 10:30 - 10:45 | Break ☕                                           |                                  |
+| 10:45 - 11:30 | Your first year as faculty / early career faculty  | Annie Tang                       |
+| 11:30 - 13:00 | Lunch 🍽️ + Roundtable discussions                  | See list of topics below!        |
+| 13:00 - 14:00 | Teaching intro data science and assessing learning | Mine Çetinkaya-Rundel            |
+| 14:00 - 15:00 | Teaching intro stats and assessing learning        | Jo Hardin                        |
+| 15:00 - 15:15 | Break ☕                                           |                                  |
+| 15:15 - 16:15 | Equitable teaching                                 | Jennifer Ward & Allison Theobold |
+| 16:15 - 16:30 | Wrap-up and moving forward                         | Allison Theobold                 |
+| 16:30         | Group picture!                                     |                                  |
+| 17:00         | Bus to JSM departs                                 |                                  |
 
 ## Round table discussions
 
