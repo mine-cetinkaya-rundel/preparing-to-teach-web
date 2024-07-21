@@ -15,26 +15,36 @@ website:
     left: "&copy; Copyright 2023, Mine Çetinkaya-Rundel & Allison Theobold"
     background: "#D9E3E4"
 
-  navbar:
-    background: "#D9E3E4"
+  sidebar:
+    logo: "images/hex.png"
+    pinned: true
     align: center
-    collapse-below: lg
-  
-    right:
+    tools: 
       - icon: github
         href: https://github.com/mine-cetinkaya-rundel/preparing-to-teach-web
+        text: "GitHub repository"
       - icon: email
         href: mailto:atheobol@calpoly.edu
+        text: "Email the organizers"         
 
-    left:
-      - text: "Home"
-        href: index.qmd
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Home
       - href: about.qmd
+        text: About
       - href: apply.qmd
+        text: Apply
       - href: agenda.qmd
+        text: Agenda
       - href: presenters.qmd
+        text: Presenters
       - href: resources.qmd
+        text: Resources
       - href: past-workshops.qmd
+        text: Past Workshops
 
 format:
   html:
