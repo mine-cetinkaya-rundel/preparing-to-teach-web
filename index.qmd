@@ -1,6 +1,8 @@
 ---
-title: "Preparing to Teach"
+title: ""
 ---
+
+## Welcome to the website for the Preparing to Teach Statistics and Data Science Workshop! 
 
 **Preparing to Teach 2024** will be held in-person at Oregon State University on Saturday, August 3, 2024 (immediately before JSM 2023).
 The goal of this workshop is to prepare graduate students for a role as faculty responsible for teaching statistics and data science to undergraduate students across a variety of disciplines.
