@@ -33,12 +33,11 @@ Claire's research engages a mixture of data science, criminology, public health,
 Her goal is to inform evidence-based practice and policy on crime and policing using statistics.
 Claire regularly incorporates topics related to social justice in her classroom and organizes joint-class projects between sociology and statistics classes.
 
-**Annie Tang** -- bio coming soon!
+**Yiqi (Annie) Tang** is an assistant professor of statistics at Colby College in Maine. She earned her PhD in statistics last year from NC State University. During her PhD studies, she took a leave of absence and taught at Williams College for a year as a visiting lecturer. She engages in both foundational methodology-driven research and applied collaborative research. Her more theoretical research has focused on Bayesian and Bayesian-like methods for high-dimensional and complex data, and in her applied work, she works on health services research in collaboration with the Emergency Medicine Department at the Mount Sinai Health System in NYC. 
 
 **Allison Theobold** is an Assistant Professor of Statistics at Cal Poly in beautiful San Luis Obispo, California.
 Allison received her doctorate in Statistics, with an emphasis in Statistics Education, from Montana State University.
-Allison's work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy and learning trajectories.
-Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discursive spaces and equitable group collaborations.
+Allison's work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy and learning trajectories. Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discursive spaces and equitable group collaborations.
 
 **Jennifer Ward** -- bio coming soon!
 
@@ -75,8 +74,8 @@ Prior to joining the faculty at Duke, Maria earned a Ph.D. in Statistics from th
 
 ## Local Organizers
 
-Many thanks to our local organizers, who help make this event possible! This year, our Oregon State University organizers are:
+Many thanks to our local organizers, who help make this event possible!
+This year, our Oregon State University organizers are:
 
-- [Yuan Jiang](https://stat.oregonstate.edu/directory/yuan-jiang)
-- [Armeen Taeb](https://stat.uw.edu/about-us/people/armeen-taeb-0)
-
+-   [Yuan Jiang](https://stat.oregonstate.edu/directory/yuan-jiang)
+-   [Armeen Taeb](https://stat.uw.edu/about-us/people/armeen-taeb-0)
