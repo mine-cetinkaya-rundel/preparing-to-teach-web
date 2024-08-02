@@ -26,18 +26,9 @@ Below is the agenda from the 2023 Preparing to Teach workshop.
 ## Round table discussions
 
 -   Getting started with grant writing
-
-<!-- -   Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest) -->
-
-<!-- -   Alternative research projects (e.g., software, textbooks, websites, course materials) -->
-
+-   Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest)
 -   Negotiating Your Job Offer
-
-```{=html}
-<!-- -->
-```
+-   Choosing a Textbook
 -   Teaching Coding
-
-<!-- -   Culturally Responsive Teaching -->
-
 -   Applying for Teaching-focused Positions
+-   Getting Job Application Materials Ready
