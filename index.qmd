@@ -2,9 +2,14 @@
 title: ""
 ---
 
-## Welcome to the website for the Preparing to Teach Statistics and Data Science Workshop! 
+## Welcome to the website for the Preparing to Teach Statistics and Data Science Workshop!
 
-**Preparing to Teach 2024** will be held in-person at Oregon State University on Saturday, August 3, 2024 (immediately before JSM 2023).
+**Preparing to Teach is back!** After a year spent searching for funding, we 
+have joined forces with 
+[Beth Chance, Nathan Tintle, Alan Rossman, and Karen McGaughey]() and will be
+once again offering a 1-day, in-person workshop on Saturday, August 1, 2026
+(immediately before JSM 2026).
+
 The goal of this workshop is to prepare graduate students for a role as faculty responsible for teaching statistics and data science to undergraduate students across a variety of disciplines.
 
-![](images/portland.jpg)
+![Image of downtown Boston by [penguinandpia](https://www.penguinandpia.com/en/things-to-do-in-boston/)](images/boston.jpeg){fig-alt="An image of downtown Boston with the juxtaposition of tall skyscrapers and the classic red brick buildings. The image also captures the greenery of downtown with some trees surrounding the neighborhood."}
