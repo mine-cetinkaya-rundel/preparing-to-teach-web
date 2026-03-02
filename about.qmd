@@ -7,7 +7,7 @@ editor: source
 ::: {.column width="40%"}
 The 9th Preparing for Careers in Teaching Statistics and Data Science Workshop
 will be held at one of the hotels associated with the Joint Statistical 
-Meetings [^1] on August 1, 2026, immediately proceeding [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026).
+Meetings [^1] on August 2, 2026, immediately following the [EAPOST workshop at Curry College](https://sites.google.com/view/eaapost/workshops).
 
 The workshop is designed for graduate students and recent PhDs interested in
 careers in teaching statistics and data science. Priority will be given to

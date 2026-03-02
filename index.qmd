@@ -4,12 +4,12 @@ title: ""
 
 ## Preparing to Teach is back!
 
-::: columns
+:::::: columns
 ::: {.column width="55%"}
-After a year spent searching for funding, we have joined forces with [the EAPOST team](https://sites.google.com/view/eaapost/project-overview) and will be once again offering a 1-day, in-person workshop on Saturday, August 1, 2026 (immediately before JSM 2026).
+After a year spent searching for funding, we have joined forces with [the EAPOST team](https://sites.google.com/view/eaapost/project-overview) and will be once again offering a 1-day, in-person workshop on Sunday, August 2, 2026 immediately following 
+the [EAPOST workshop at Curry College](https://sites.google.com/view/eaapost/workshops). 
 
 The goal of this workshop is to prepare graduate students for a role as faculty responsible for teaching statistics and data science to undergraduate students across a variety of disciplines.
-
 :::
 
 ::: {.column width="5%"}
@@ -18,6 +18,4 @@ The goal of this workshop is to prepare graduate students for a role as faculty 
 ::: {.column width="40%"}
 ![](https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt35f139cc2bffb3d3/67bd8e3d304ea983d882b86c/iStock-1363326074-2-Header_Mobile.jpg?format=webp&quality=60&width=1440){fig-alt="A wide cityscape showing a bridge over a river with a train crossing it in the foreground and a skyline of tall buildings and residential houses behind, illuminated by warm evening light."}
 :::
-:::
-
-
+::::::
