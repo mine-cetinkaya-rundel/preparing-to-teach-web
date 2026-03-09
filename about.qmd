@@ -53,4 +53,4 @@ at [mc301@duke.edu](mailto:mc301@duke.edu).
 
 This workshop is organized by the Section on Statistics and Data Science
 Education of the American Statistical Association and is made possible with
-support from the [EAPOST team (Beth Chance, Karen McGaughey, Soma Roy, and Nathan Tintle)](https://sites.google.com/view/eaapost/project-overview) and their [NSF DUE grant](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2235355). 
+support from the [EAPOST team](https://sites.google.com/view/eaapost/project-overview) and their [NSF DUE grant](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2235355). 
