@@ -2,32 +2,30 @@
 title: "Agenda"
 ---
 
-The workshop will take place on **Sunday, August 2, 2026**.
-
-Below is the agenda from the 2023 Preparing to Teach workshop.
-The schedule for the 2026 workshop will take a similar structure, but may explore slightly different topics and will likely have different presenters.
+The workshop will take place on **Sunday, August 2, 2026**. Below is the
+tentative agenda for the workshop. 
 
 | Time | Session | Presenter(s) |
 |:------------------|:---------------------------------|:------------------|
-| 8:15 - 9:00 | Welcome and introductions | Claire Kelling |
-| 9:00 - 9:45 | Teaching-focused careers | Andrew Bray |
-| 9:45 - 10:30 | Statistics and data science education research | Mine Dogucu |
-| 10:30 - 10:45 | Break ☕ |  |
-| 10:45 - 11:30 | Your first year as faculty / early career faculty | Annie Tang |
-| 11:30 - 13:00 | Lunch 🍽️ + Roundtable discussions | See list of topics below! |
-| 13:00 - 14:00 | Teaching intro data science and assessing learning | Mine Çetinkaya-Rundel |
-| 14:00 - 15:00 | Teaching intro stats and assessing learning | Jo Hardin |
-| 15:00 - 15:15 | Break ☕ |  |
-| 15:15 - 16:15 | Equity-focused teaching | Video by Jennifer Ward & Panel Discussion |
-| 16:15 - 16:30 | Wrap-up and moving forward | Allison Theobold |
-| 16:30 | Group picture! |  |
+| 9:00 - 9:15 | Welcome and introductions | Claire Kelling |
+| 9:15 - 10:00 | Teaching-focused careers | Hunter Glanz |
+| 10:00 - 10:45 | Statistics and data science education research | Maria Tackett |
+| 10:45 - 11:00 | Break ☕ |  |
+| 11:00 - 11:45 | Your first year as faculty / early career faculty | TBD |
+| 11:45 - 12:30 | Teaching intro stats and assessing learning | Tyler George |
+| 12:30 - 13:45 | Lunch 🍽️ + Roundtable discussions + Group picture | Topics TBD |
+| 13:45 - 14:30 | Teaching intro data science and assessing learning | Mine Çetinkaya-Rundel |
+| 14:30 - 15:15 | Equity-focused teaching | Brianna Heggeseth |
+| 15:15 - 15:30 | Wrap-up and moving forward | Claire Kelling |
 
 ## Round table discussions
 
--   Getting started with grant writing
--   Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest)
--   Negotiating Your Job Offer
--   Choosing a Textbook
--   Teaching Coding
--   Applying for Teaching-focused Positions
--   Getting Job Application Materials Ready
+Will be posted soon!
+
+<!-- - Getting started with grant writing -->
+<!-- - Mentoring undergraduate projects, research, and extra curriculars (e.g., Datafest) -->
+<!-- - Negotiating Your Job Offer -->
+<!-- - Choosing a Textbook -->
+<!-- - Teaching Coding -->
+<!-- - Applying for Teaching-focused Positions -->
+<!-- - Getting Job Application Materials Ready -->
