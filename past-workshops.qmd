@@ -18,16 +18,16 @@ Mine Çetinkaya-Rundel & Allison Theobold
 
 In addition to the following sessions lead by the speakers, we held breakout discussions.
 
--   Session 1: Teaching-focused careers
--   Session 2: Statistics and data science education research
--   Session 3: Your first year as faculty / early career faculty
--   Session 4: Teaching intro stats and assessing learning
--   Session 5: Teaching intro data science and assessing learning
--   Session 6: Equitable teaching
+- Session 1: Teaching-focused careers
+- Session 2: Statistics and data science education research
+- Session 3: Your first year as faculty / early career faculty
+- Session 4: Teaching intro stats and assessing learning
+- Session 5: Teaching intro data science and assessing learning
+- Session 6: Equitable teaching
 
 ### Materials
 
-Materials from PTT 2023 can be found \[LINK TO BE ADDED\].
+Materials from PTT 2023 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/releases/tag/ptt-2023).
 
 ### Acknowledgements
 
@@ -51,15 +51,15 @@ Mine Çetinkaya-Rundel & Allison Theobold
 
 In addition to the following sessions lead by the speakers, we held breakout discussions.
 
--   Session 1: Teaching-focused careers
--   Session 2: Your first year as faculty / early career faculty
--   Session 3: GAISE recommendations, teaching intro stats and assessing learning
--   Session 4: Teaching intro data science and assessing learning
--   Session 5: Mentoring undergraduate researchers
+- Session 1: Teaching-focused careers
+- Session 2: Your first year as faculty / early career faculty
+- Session 3: GAISE recommendations, teaching intro stats and assessing learning
+- Session 4: Teaching intro data science and assessing learning
+- Session 5: Mentoring undergraduate researchers
 
 ### Materials
 
-Materials from PTT 2022 can be found \[LINK TO BE ADDED\].
+Materials from PTT 2022 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach/releases/tag/ptt-2022).
 
 ### Acknowledgements
 
@@ -83,12 +83,12 @@ Mine Çetinkaya-Rundel & Allison Theobold
 
 In addition to the following sessions lead by the speakers, we held breakout discussions.
 
--   Session 1: Intro Stat & GAISE
--   Session 2: Teaching intro data science
--   Session 3: Teaching focused career opportunities
--   Session 4: Your first year as faculty
--   Session 5: Opportunities for scholarship in statistics education
--   Session 6: Undergraduate mentoring / research with undergrads
+- Session 1: Intro Stat & GAISE
+- Session 2: Teaching intro data science
+- Session 3: Teaching focused career opportunities
+- Session 4: Your first year as faculty
+- Session 5: Opportunities for scholarship in statistics education
+- Session 6: Undergraduate mentoring / research with undergrads
 
 ### Materials
 
@@ -116,13 +116,13 @@ Mine Çetinkaya-Rundel
 
 In addition to the following sessions lead by the speakers, we held breakout discussions.
 
--   Session 1: Implementing GAISE Recommendations
--   Session 2: Teaching focused career opportunities
--   Session 3: Opportunities in statistics education research
--   Session 4: Your first year as faculty
--   Session 5: Teaching remotely
--   Session 6: Teaching intro statistics
--   Session 7: Teaching intro data science
+- Session 1: Implementing GAISE Recommendations
+- Session 2: Teaching focused career opportunities
+- Session 3: Opportunities in statistics education research
+- Session 4: Your first year as faculty
+- Session 5: Teaching remotely
+- Session 6: Teaching intro statistics
+- Session 7: Teaching intro data science
 
 ### Materials
 
@@ -150,11 +150,11 @@ Mine Çetinkaya-Rundel, Alex Volfovsky
 
 In addition to the following sessions lead by the speakers, we held roundtable discussions during lunch.
 
--   Session 1: GAISE recommendations, and teaching-focused career opportunities
--   Session 2: Education research and opportunities for grants
--   Session 3: Teaching intro stats and assessing learning
--   Session 4: Teaching intro data science and assessing learning
--   Session 5: Mentoring undergraduate researchers
+- Session 1: GAISE recommendations, and teaching-focused career opportunities
+- Session 2: Education research and opportunities for grants
+- Session 3: Teaching intro stats and assessing learning
+- Session 4: Teaching intro data science and assessing learning
+- Session 5: Mentoring undergraduate researchers
 
 ### Materials
 
@@ -182,12 +182,12 @@ Beth Chance, Mine Çetinkaya-Rundel, Donna LaLonde
 
 In addition to the following sessions lead by the speakers, we held roundtable discussions during lunch.
 
--   Session 1: Teaching Introductory Statistics and Assessing Learning
--   Session 2: Teaching focused career opportunities
--   Session 3: Teaching Introductory Data Science and Assessing Learning
--   Session 4: Preparing to mentor undergraduate researchers\
--   Session 5: Opportunities for grants
--   Session 6: Sharing resources and staying connected
+- Session 1: Teaching Introductory Statistics and Assessing Learning
+- Session 2: Teaching focused career opportunities
+- Session 3: Teaching Introductory Data Science and Assessing Learning
+- Session 4: Preparing to mentor undergraduate researchers\
+- Session 5: Opportunities for grants
+- Session 6: Sharing resources and staying connected
 
 ### Materials
 
