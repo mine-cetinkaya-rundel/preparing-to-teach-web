@@ -4,7 +4,7 @@ title: "Presenters"
 
 ## This year's presenters
 
-**Andrew Bray** -- bio coming soon!
+<!-- Need bios for Tyler, Hunter, Brianna -->
 
 **Mine Çetinkaya-Rundel** is Professor of the Practice at the Department of Statistical Science at Duke University and Data Scientist and Professional Educator at RStudio.
 Mine's work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM.
@@ -13,19 +13,11 @@ She also organizes ASA DataFest, an annual two-day competition in which teams of
 Mine has been working on the OpenIntro project since its founding and as part of this project she co-authored four open-source introductory statistics textbooks (including this one!).
 She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera.
 
-**Mine Dogucu** is Assistant Professor of Teaching and Vice Chair of Undergraduate Studies in the Department of Statistics at University of California Irvine.
-Her goal is to create educational resources for statistics and data science that are accessible physically and cognitively.
-Mine's work focuses on modern pedagogical approaches in the statistics curriculum, making data science education accessible, and undergraduate Bayesian education.
-She is the co-author of the book [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/).
-She works on a few projects funded by the National Science Foundation and the National Institutes of Health.
-She writes blog posts about data, pedagogy, and data pedagogy at [datapedagogy.com](https://www.datapedagogy.com/).
+**Tyler George** -- Bio coming soon!
 
-**Jo Hardin** is a Professor of Mathematics at Pomona College in Southern California.
-Dr. Hardin's research area is in generating novel statistical methods for analyzing biological high throughput methods.
-She has also worked for many years in research on statistics and data science education, particularly in areas of modernizing the curriculum.
-In summer 2019, she and colleagues blogged daily to create [50 topics on teaching data science](https://teachdatascience.com/).
-She has won multiple teaching awards and is a fellow of both the American Statistical Association as well as the International Statistics Institute.
-Jo is a past chair of the Section on Statistics and Data Science Education of the American Statistical Association.
+**Hunter Glanz** -- Bio coming soon!
+
+**Brianna Heggeseth** -- Bio coming soon!
 
 **Claire Kelling** is an Assistant Professor of Statistics at Carleton College in Northfield, Minnesota.
 She received her Dual PhD in Statistics and Social Data Analytics from Penn State.
@@ -33,26 +25,54 @@ Claire's research engages a mixture of data science, criminology, public health,
 Her goal is to inform evidence-based practice and policy on crime and policing using statistics.
 Claire regularly incorporates topics related to social justice in her classroom and organizes joint-class projects between sociology and statistics classes.
 
-**Yiqi (Annie) Tang** is an assistant professor of statistics at Colby College in Maine. She earned her PhD in statistics last year from NC State University. During her PhD studies, she took a leave of absence and taught at Williams College for a year as a visiting lecturer. She engages in both foundational methodology-driven research and applied collaborative research. Her more theoretical research has focused on Bayesian and Bayesian-like methods for high-dimensional and complex data, and in her applied work, she works on health services research in collaboration with the Emergency Medicine Department at the Mount Sinai Health System in NYC. 
-
-**Allison Theobold** is an Assistant Professor of Statistics at Cal Poly in beautiful San Luis Obispo, California.
-Allison received her doctorate in Statistics, with an emphasis in Statistics Education, from Montana State University.
-Allison's work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy and learning trajectories. Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discursive spaces and equitable group collaborations.
-
-**Jennifer Ward** -- bio coming soon!
+**Maria Tackett** is an Associate Professor of the Practice in the Department
+of Statistical Science at Duke University. Prior to joining the faculty at Duke,
+she earned a Ph.D. in Statistics from the University of Virginia and worked as
+a statistician at Capital One. Her research focuses on inclusive pedagogy and
+instructors' motivation to implement inclusive teaching practices in their
+courses. She also works on curriculum design and develops instructional
+materials for high school and university-level statistics and data science
+courses. Maria has collaborated with the Bill & Melinda Gates Foundation and
+the Charles A. Dana Center, and she is a member of the steering committee for
+the current GAISE College Report revision.
 
 ## Past presenters
 
-**Beth Chance** is Professor of Statistics at Cal Poly, San Luis Obispo.
-Dr. Chance has been involved in statistics education research for several years, especially in the areas of assessment and technology, and she has background in program evaluation and curriculum development.
-She is an award winning teacher (American Statistical Association's Waller Education Award) and her applets have been recognized by Merlot.
-With Dr. Allan Rossman and others she has co-authored three introductory textbooks that focus on using active learning and constructivism to improve students' statistical thinking and literacy, and a new textbook for a second course in statistics is coming this fall.
-Dr. Chance has received several NSF grants for her work and is a fellow of the American Statistical Association.
-She was 2018 Chair of the Section on Statistics Education (American Statistical Association).
+**Andrew Bray**
 
-**Ciaran Evans** is an Assistant Professor Statistics in the Department of Statistical Sciences at Wake Forest University.
-Ciaran's pedagogical work involves understanding student misconceptions, and developing activities and resources to support student engagement.
-He also works on topics including dataset shift, changepoint detection, and hypothesis testing, with a focus on applications to biology and medicine.
+**Beth Chance** is Professor of Statistics at Cal Poly, San Luis Obispo.
+Dr. Chance has been involved in statistics education research for several years,
+especially in the areas of assessment and technology, and she has background in
+program evaluation and curriculum development. She is an award winning teacher
+(American Statistical Association's Waller Education Award) and her applets have
+been recognized by Merlot. With Dr. Allan Rossman and others she has co-authored
+three introductory textbooks that focus on using active learning and 
+constructivism to improve students' statistical thinking and literacy, and a new
+textbook for a second course in statistics is coming this fall. Dr. Chance has
+received several NSF grants for her work and is a fellow of the American
+Statistical Association. She was 2018 Chair of the Section on Statistics
+Education (American Statistical Association).
+
+**Mine Dogucu** is Assistant Professor of Teaching and Vice Chair of Undergraduate Studies in the Department of Statistics at University of California Irvine.
+Her goal is to create educational resources for statistics and data science that are accessible physically and cognitively.
+Mine's work focuses on modern pedagogical approaches in the statistics curriculum, making data science education accessible, and undergraduate Bayesian education.
+She is the co-author of the book [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/).
+She works on a few projects funded by the National Science Foundation and the National Institutes of Health.
+She writes blog posts about data, pedagogy, and data pedagogy at [datapedagogy.com](https://www.datapedagogy.com/).
+
+**Ciaran Evans** is an Assistant Professor Statistics in the Department of
+Statistical Sciences at Wake Forest University. Ciaran's pedagogical work 
+involves understanding student misconceptions, and developing activities and 
+resources to support student engagement. He also works on topics including
+dataset shift, changepoint detection, and hypothesis testing, with a focus on
+applications to biology and medicine.
+
+**Jo Hardin** is a Professor of Mathematics at Pomona College in Southern California.
+Dr. Hardin's research area is in generating novel statistical methods for analyzing biological high throughput methods.
+She has also worked for many years in research on statistics and data science education, particularly in areas of modernizing the curriculum.
+In summer 2019, she and colleagues blogged daily to create [50 topics on teaching data science](https://teachdatascience.com/).
+She has won multiple teaching awards and is a fellow of both the American Statistical Association as well as the International Statistics Institute.
+Jo is a past chair of the Section on Statistics and Data Science Education of the American Statistical Association.
 
 **Yue Jiang** is Assistant Professor of the Practice of Statistical Science at Duke University.
 A biostatistician by training, Yue has applied research interests in public health and biomedicine, and routinely involves undergraduate students in such projects.
@@ -68,14 +88,20 @@ Jessie is also interested in guided inquiry approaches to teaching statistics.
 Stoudt received her doctorate in statistics from the University of California, Berkeley, and she is starting as an Assistant Professor in the Department of Mathematics at Bucknell University in the fall.
 Follow Sara on Twitter (@sastoudt) and check out her recent book with Deborah Nolan, Communicating with Data: The Art of Writing for Data Science.
 
-**Maria Tackett** is an Assistant Professor of the Practice in the Department of Statistical Science at Duke University.
-Maria's research focuses on using technology and active learning techniques to enhance student learning and motivation in large undergraduate statistics courses.
-Prior to joining the faculty at Duke, Maria earned a Ph.D. in Statistics from the University of Virginia, where her research focused on using a Bayesian approach to quantify uncertainty in forensic science techniques, with an emphasis on latent fingerprint evidence.
 
-## Local Organizers
+**Yiqi (Annie) Tang** is an assistant professor of statistics at Colby College in Maine.
+She earned her PhD in statistics last year from NC State University.
+During her PhD studies, she took a leave of absence and taught at Williams College for a year as a visiting lecturer.
+She engages in both foundational methodology-driven research and applied collaborative research.
+Her more theoretical research has focused on Bayesian and Bayesian-like methods for high-dimensional and complex data, and in her applied work, she works on health services research in collaboration with the Emergency Medicine Department at the Mount Sinai Health System in NYC.
 
-Many thanks to our local organizers, who help make this event possible!
-This year, our Oregon State University organizers are:
+**Allison Theobold** is an Assistant Professor of Statistics at Cal Poly in 
+beautiful San Luis Obispo, California. Allison received their doctorate in
+Statistics, with an emphasis in Statistics Education, from Montana State
+University. Allison's work focuses on innovation in statistics and data science
+education, with an emphasis on equitable pedagogy and learning trajectories.
+Allison is also interested in exploring pedagogical approaches for enhancing
+retention of under-represented students in STEM, including creating inclusive
+discursive spaces and equitable group collaborations.
 
--   [Yuan Jiang](https://stat.oregonstate.edu/directory/yuan-jiang)
--   [Armeen Taeb](https://stat.uw.edu/about-us/people/armeen-taeb-0)
+**Jennifer Ward**
