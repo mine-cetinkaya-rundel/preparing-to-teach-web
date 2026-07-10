@@ -13,15 +13,11 @@ She also organizes ASA DataFest, an annual two-day competition in which teams of
 Mine has been working on the OpenIntro project since its founding and as part of this project she co-authored four open-source introductory statistics textbooks (including this one!).
 She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera.
 
-**Tyler George** is an Associate Professor of Statistics and the Director of an
-undergraduate summer research program at Cornell College. His recent work has 
-focused on statistics and data science education pedagogies that engage students
-in unique ways, including community based courses and gamification. He also
-supports the statistics community in various capacities, serving as president of
-the Iowa Chapter of the ASA and supporting numerous conferences, including being
-the Program Chair of the SSDSE for JSM 2026. 
+**Tyler George** is an Associate Professor of Statistics and the Director of an undergraduate summer research program at Cornell College.
+His recent work has focused on statistics and data science education pedagogies that engage students in unique ways, including community based courses and gamification.
+He also supports the statistics community in various capacities, serving as president of the Iowa Chapter of the ASA and supporting numerous conferences, including being the Program Chair of the SSDSE for JSM 2026.
 
-**Hunter Glanz** -- Bio coming soon!
+**Hunter Glanz** is an Associate Teaching Professor at the Institute for Advanced Analytics at NC State University. He teaches a variety of topics at the institute including statistics, linear algebra, text analytics, machine learning, and AI. His research areas include statistical computing and data science education, but he has also consulted on research across numerous fields including public health, dairy science, marine biology, metabolomics, and remote sensing. He currently serves on the ASA/AMATYC Joint Committee on Statistics and Data Science and was a founding board member of the California Alliance for Data Science Education. He was most recently involved in the 2026 GAISE revision and the development of a C-ID descriptor for introductory data science in California. He has regularly spoken at conferences and workshops about data science education and program development, in particular introductory data science in higher education. Prior to coming to NC State, he was a Professor of Statistics and Data Science at California Polytechnic State University (Cal Poly) in San Luis Obispo, CA from 2014-2025 and at California State University, Monterey Bay from 2025-2026.
 
 **Brianna Heggeseth** -- Bio coming soon!
 
