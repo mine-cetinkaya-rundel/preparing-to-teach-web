@@ -13,6 +13,17 @@ The workshop is designed for graduate students and recent PhDs interested in
 careers in teaching statistics and data science. Priority will be given to
 graduate students who finished or will be finishing their program between Spring
 2026 and Fall 2027.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+![Preparing to Teach 2026 participants](images/ptt-2026.png){fig-alt="A photo of the participants and presenters for the 2026 Preparing to Teach Statistics and Data Science workshop. There are two rows of people, the first row is sitting and the second row is standing. There are a total of 19 people in the photo."}
+:::
+::::::
+
+[^1]: Many thanks to Donna LaLonde at the ASA who generously sponsored our meeting room!
 
 This is a one-day workshop to prepare current and recent graduate students for a
 future role as faculty responsible for teaching statistics and data science to
@@ -20,19 +31,6 @@ undergraduate students across a variety of disciplines. We envision workshop
 participants become capable of developing innovative and pedagogically-sound
 learning experiences for their students inside and outside the classroom and
 using formative and summative assessment to guide their instructional practice.
-
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="55%"}
-![Preparing to Teach 2023 participants outside the University of Toronto](images/ptt-2023.jpg)
-:::
-::::::
-
-[^1]: Many thanks to Donna LaLonde at the ASA who generously sponsored our meeting room!
-
 
 The ultimate objective of this workshop is to increase the proportion of
 successful instructors who have the skills, capacity, and inclination to take on
@@ -51,6 +49,8 @@ at [mc301@duke.edu](mailto:mc301@duke.edu).
 
 <!-- Claire Kelling at [ckelling\@carleton.edu](mailto:ckelling@carleton.edu) -->
 
-This workshop is organized by the Section on Statistics and Data Science
-Education of the American Statistical Association and is made possible with
-support from the [EAPOST team](https://sites.google.com/view/eaapost/project-overview) and their [NSF DUE grant](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2235355). 
+This workshop was made possible with
+travel support from [EAPOST](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2235355), 
+a meeting room sponsored by the American Statistical Association, and lunch 
+supported by the ASA and the 
+[Section on Statistics and Data Science Education](https://community.amstat.org/statisticaleducationsection/home). 
