@@ -2,6 +2,23 @@
 title: "Past workshops"
 ---
 
+## Preparing to Teach - JSM 2026
+
+Boston, Massachusetts
+
+### Speakers
+
+Mine Çetinkaya-Rundel, Tyler George, Maria Tackett, Brianna Heggeseth, Federica Zoe Ricci, Hunter Glanz`  
+
+### Organisers
+
+Mine Çetinkaya-Rundel, Allison Theobold, and Claire Kelling
+
+### Materials
+
+Materials from PTT 2026 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach-web/tree/main/resources/ptt_2026_materials).
+
+
 ## Preparing to Teach - JSM 2023
 
 Toronto, Canada
