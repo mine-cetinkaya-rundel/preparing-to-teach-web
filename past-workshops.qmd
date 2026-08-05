@@ -18,6 +18,10 @@ Mine Çetinkaya-Rundel, Allison Theobold, and Claire Kelling
 
 Materials from PTT 2026 can be found [here](https://github.com/mine-cetinkaya-rundel/preparing-to-teach-web/tree/main/resources/ptt_2026_materials).
 
+### Acknowledgements
+
+This workshop was made possible with travel support from EAPOST, a meeting room sponsored by the American Statistical Association, and lunch supported by the ASA and the Section on Statistics and Data Science Education.
+
 
 ## Preparing to Teach - JSM 2023
 
